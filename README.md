@@ -8,7 +8,7 @@ It functions as both a conversational assistant and a server utility tool. Wheth
 
 ## Features
 
-### AI Capabilities (Powered by Gemini 1.5)
+### AI Capabilities (Powered by Gemini 2.5)
 * **/ask [question]**: Interact directly with Gemini AI within Discord. Useful for coding assistance, general knowledge, or creative writing.
 * **/analyze [user]**: The bot retrieves the last 50 messages from a specific user and generates a personality summary based on their chat history.
 
